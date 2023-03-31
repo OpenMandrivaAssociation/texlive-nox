@@ -1,6 +1,6 @@
 Name:		texlive-nox
 Version:	30991
-Release:	1
+Release:	2
 Summary:	Adaptable tables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nox
