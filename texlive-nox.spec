@@ -3,7 +3,7 @@ Version:	30991
 Release:	2
 Summary:	Adaptable tables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nox
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nox.doc.r%{version}.tar.xz
